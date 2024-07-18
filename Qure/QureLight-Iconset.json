@@ -1,0 +1,1284 @@
+{
+    "name": "QureLight Iconset",
+    "description": "收集自Qure icons，如有侵权请联系",
+    "time": "2024-07-18",
+    "icons":
+    [
+        {
+            "name": "Frog.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Frog.png"
+        },
+        {
+            "name": "Blackhole.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Blackhole.png"
+        },
+        {
+            "name": "TAG.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/TAG.png"
+        },
+        {
+            "name": "Bamboo.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Bamboo.png"
+        },
+        {
+            "name": "Cat.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Cat.png"
+        },
+        {
+            "name": "Lambda.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Lambda.png"
+        },
+        {
+            "name": "Panda.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Panda.png"
+        },
+        {
+            "name": "SSL.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/SSL.png"
+        },
+        {
+            "name": "Luffy.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Luffy.png"
+        },
+        {
+            "name": "Nfcloud.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Nfcloud.png"
+        },
+        {
+            "name": "Catnet.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Catnet.png"
+        },
+        {
+            "name": "5iTV.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/5iTV.png"
+        },
+        {
+            "name": "aaex.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/aaex.png"
+        },
+        {
+            "name": "AbemaTV.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/AbemaTV.png"
+        },
+        {
+            "name": "AbemaTV_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/AbemaTV_Letter.png"
+        },
+        {
+            "name": "AdBlack.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/AdBlack.png"
+        },
+        {
+            "name": "Advertising.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Advertising.png"
+        },
+        {
+            "name": "AdWhite.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/AdWhite.png"
+        },
+        {
+            "name": "AIA.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/AIA.png"
+        },
+        {
+            "name": "AIA_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/AIA_Letter.png"
+        },
+        {
+            "name": "Airport.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Airport.png"
+        },
+        {
+            "name": "Alibaba.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Alibaba.png"
+        },
+        {
+            "name": "Alibaba_Cloud.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Alibaba_Cloud.png"
+        },
+        {
+            "name": "All4.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/All4.png"
+        },
+        {
+            "name": "AmyTelecom.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/AmyTelecom.png"
+        },
+        {
+            "name": "AmyTelecom_1.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/AmyTelecom_1.png"
+        },
+        {
+            "name": "Apol.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Apol.png"
+        },
+        {
+            "name": "Apple.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Apple.png"
+        },
+        {
+            "name": "Apple_Fitness+.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Apple_Fitness+.png"
+        },
+        {
+            "name": "Apple_Fitness.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Apple_Fitness.png"
+        },
+        {
+            "name": "Apple_Mail.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Apple_Mail.png"
+        },
+        {
+            "name": "Apple_Music.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Apple_Music.png"
+        },
+        {
+            "name": "Apple_News.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Apple_News.png"
+        },
+        {
+            "name": "Apple_TV.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Apple_TV.png"
+        },
+        {
+            "name": "Apple_TV_Plus.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Apple_TV_Plus.png"
+        },
+        {
+            "name": "Apple_Update.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Apple_Update.png"
+        },
+        {
+            "name": "App_Store.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/App_Store.png"
+        },
+        {
+            "name": "Area.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Area.png"
+        },
+        {
+            "name": "ARK.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/ARK.png"
+        },
+        {
+            "name": "Auto.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Auto.png"
+        },
+        {
+            "name": "Available.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Available.png"
+        },
+        {
+            "name": "Available_Alt.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Available_Alt.png"
+        },
+        {
+            "name": "AWS.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/AWS.png"
+        },
+        {
+            "name": "Azure.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Azure.png"
+        },
+        {
+            "name": "Back.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Back.png"
+        },
+        {
+            "name": "Bahamut.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Bahamut.png"
+        },
+        {
+            "name": "Baidu_Cloud.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Baidu_Cloud.png"
+        },
+        {
+            "name": "BBC_iPlayer.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/BBC_iPlayer.png"
+        },
+        {
+            "name": "BBTEC.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/BBTEC.png"
+        },
+        {
+            "name": "BGP.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/BGP.png"
+        },
+        {
+            "name": "bilibili.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/bilibili.png"
+        },
+        {
+            "name": "Blinkload.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Blinkload.png"
+        },
+        {
+            "name": "Blinkload_B.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Blinkload_B.png"
+        },
+        {
+            "name": "Blinkload_SS.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Blinkload_SS.png"
+        },
+        {
+            "name": "Blinkload_V2Ray.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Blinkload_V2Ray.png"
+        },
+        {
+            "name": "Bookpedia.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Bookpedia.png"
+        },
+        {
+            "name": "BosLife.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/BosLife.png"
+        },
+        {
+            "name": "BosLife_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/BosLife_Letter.png"
+        },
+        {
+            "name": "Bot.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Bot.png"
+        },
+        {
+            "name": "Bypass.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Bypass.png"
+        },
+        {
+            "name": "CA.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CA.png"
+        },
+        {
+            "name": "Canada.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Canada.png"
+        },
+        {
+            "name": "CCCAT.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CCCAT.png"
+        },
+        {
+            "name": "CCCAT_C.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CCCAT_C.png"
+        },
+        {
+            "name": "Cellular.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Cellular.png"
+        },
+        {
+            "name": "CEN.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CEN.png"
+        },
+        {
+            "name": "China.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/China.png"
+        },
+        {
+            "name": "China_Map.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/China_Map.png"
+        },
+        {
+            "name": "China_Telecom.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/China_Telecom.png"
+        },
+        {
+            "name": "China_Unicom.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/China_Unicom.png"
+        },
+        {
+            "name": "CHT.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CHT.png"
+        },
+        {
+            "name": "Cloudflare.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Cloudflare.png"
+        },
+        {
+            "name": "CMI.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CMI.png"
+        },
+        {
+            "name": "CN.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CN.png"
+        },
+        {
+            "name": "CN2.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CN2.png"
+        },
+        {
+            "name": "CN2_GIA.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CN2_GIA.png"
+        },
+        {
+            "name": "CN2_GT.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CN2_GT.png"
+        },
+        {
+            "name": "CONAIR.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CONAIR.png"
+        },
+        {
+            "name": "CrossWall.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CrossWall.png"
+        },
+        {
+            "name": "CTM.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/CTM.png"
+        },
+        {
+            "name": "Cydia.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Cydia.png"
+        },
+        {
+            "name": "Daily.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Daily.png"
+        },
+        {
+            "name": "DAZN.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/DAZN.png"
+        },
+        {
+            "name": "DE.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/DE.png"
+        },
+        {
+            "name": "deezer.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/deezer.png"
+        },
+        {
+            "name": "deezer_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/deezer_Letter.png"
+        },
+        {
+            "name": "Dinosaur.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Dinosaur.png"
+        },
+        {
+            "name": "Direct.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Direct.png"
+        },
+        {
+            "name": "discovery+.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/discovery+.png"
+        },
+        {
+            "name": "Disney+.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Disney+.png"
+        },
+        {
+            "name": "Dler.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Dler.png"
+        },
+        {
+            "name": "DMIT.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/DMIT.png"
+        },
+        {
+            "name": "Domestic.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Domestic.png"
+        },
+        {
+            "name": "DomesticMedia.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/DomesticMedia.png"
+        },
+        {
+            "name": "Download.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Download.png"
+        },
+        {
+            "name": "Drill.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Drill.png"
+        },
+        {
+            "name": "Emby.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Emby.png"
+        },
+        {
+            "name": "encoreTVB.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/encoreTVB.png"
+        },
+        {
+            "name": "ESPN+.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/ESPN+.png"
+        },
+        {
+            "name": "EU.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/EU.png"
+        },
+        {
+            "name": "European_Union.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/European_Union.png"
+        },
+        {
+            "name": "Facebook.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Facebook.png"
+        },
+        {
+            "name": "FI.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/FI.png"
+        },
+        {
+            "name": "Filter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Filter.png"
+        },
+        {
+            "name": "Final.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Final.png"
+        },
+        {
+            "name": "Find_My.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Find_My.png"
+        },
+        {
+            "name": "Flamingo.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Flamingo.png"
+        },
+        {
+            "name": "ForeignMedia.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/ForeignMedia.png"
+        },
+        {
+            "name": "FOX.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/FOX.png"
+        },
+        {
+            "name": "friDay.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/friDay.png"
+        },
+        {
+            "name": "fuboTV.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/fuboTV.png"
+        },
+        {
+            "name": "G-Core_Labs.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/G-Core_Labs.png"
+        },
+        {
+            "name": "Game.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Game.png"
+        },
+        {
+            "name": "GCP.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/GCP.png"
+        },
+        {
+            "name": "Germany.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Germany.png"
+        },
+        {
+            "name": "GIA.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/GIA.png"
+        },
+        {
+            "name": "GLaDOS.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/GLaDOS.png"
+        },
+        {
+            "name": "Global.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Global.png"
+        },
+        {
+            "name": "GlobalMedia.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/GlobalMedia.png"
+        },
+        {
+            "name": "Google.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Google.png"
+        },
+        {
+            "name": "Google_Drive.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Google_Drive.png"
+        },
+        {
+            "name": "Google_Opinion_Rewards.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Google_Opinion_Rewards.png"
+        },
+        {
+            "name": "Google_Search.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Google_Search.png"
+        },
+        {
+            "name": "GT.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/GT.png"
+        },
+        {
+            "name": "GuGuEX.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/GuGuEX.png"
+        },
+        {
+            "name": "GuGuEX_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/GuGuEX_Letter.png"
+        },
+        {
+            "name": "HBO.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/HBO.png"
+        },
+        {
+            "name": "HBO_Max.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/HBO_Max.png"
+        },
+        {
+            "name": "Heart.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Heart.png"
+        },
+        {
+            "name": "Heureka.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Heureka.png"
+        },
+        {
+            "name": "HGC.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/HGC.png"
+        },
+        {
+            "name": "Hijacking.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Hijacking.png"
+        },
+        {
+            "name": "HiNet.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/HiNet.png"
+        },
+        {
+            "name": "hitun.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/hitun.png"
+        },
+        {
+            "name": "HK.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/HK.png"
+        },
+        {
+            "name": "HKBN.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/HKBN.png"
+        },
+        {
+            "name": "HKMTMedia.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/HKMTMedia.png"
+        },
+        {
+            "name": "HKT.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/HKT.png"
+        },
+        {
+            "name": "Hong_Kong.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Hong_Kong.png"
+        },
+        {
+            "name": "Hulu.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Hulu.png"
+        },
+        {
+            "name": "iCloud.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/iCloud.png"
+        },
+        {
+            "name": "IEPL.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/IEPL.png"
+        },
+        {
+            "name": "IIJ.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/IIJ.png"
+        },
+        {
+            "name": "IN.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/IN.png"
+        },
+        {
+            "name": "Ingress.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Ingress.png"
+        },
+        {
+            "name": "Instagram.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Instagram.png"
+        },
+        {
+            "name": "IPLC.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/IPLC.png"
+        },
+        {
+            "name": "iQIYI&bilibili.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/iQIYI&bilibili.png"
+        },
+        {
+            "name": "iQIYI.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/iQIYI.png"
+        },
+        {
+            "name": "ITV_Hub.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/ITV_Hub.png"
+        },
+        {
+            "name": "Japan.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Japan.png"
+        },
+        {
+            "name": "JIYOU.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/JIYOU.png"
+        },
+        {
+            "name": "JOOX.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/JOOX.png"
+        },
+        {
+            "name": "JOOX_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/JOOX_Letter.png"
+        },
+        {
+            "name": "JP.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/JP.png"
+        },
+        {
+            "name": "KKBOX.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/KKBOX.png"
+        },
+        {
+            "name": "KKTV.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/KKTV.png"
+        },
+        {
+            "name": "Korea.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Korea.png"
+        },
+        {
+            "name": "KR.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/KR.png"
+        },
+        {
+            "name": "KT.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/KT.png"
+        },
+        {
+            "name": "Lab.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Lab.png"
+        },
+        {
+            "name": "League_of_Legends.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/League_of_Legends.png"
+        },
+        {
+            "name": "LineTV.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/LineTV.png"
+        },
+        {
+            "name": "LineTV_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/LineTV_Letter.png"
+        },
+        {
+            "name": "LiTV.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/LiTV.png"
+        },
+        {
+            "name": "Lock.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Lock.png"
+        },
+        {
+            "name": "LOL.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/LOL.png"
+        },
+        {
+            "name": "Loop.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Loop.png"
+        },
+        {
+            "name": "Macao.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Macao.png"
+        },
+        {
+            "name": "Magic.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Magic.png"
+        },
+        {
+            "name": "Mail.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Mail.png"
+        },
+        {
+            "name": "Malaysia.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Malaysia.png"
+        },
+        {
+            "name": "MAYING.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/MAYING.png"
+        },
+        {
+            "name": "Media.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Media.png"
+        },
+        {
+            "name": "Microsoft.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Microsoft.png"
+        },
+        {
+            "name": "MO.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/MO.png"
+        },
+        {
+            "name": "Mouse.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Mouse.png"
+        },
+        {
+            "name": "Music.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Music.png"
+        },
+        {
+            "name": "Music_Enhance.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Music_Enhance.png"
+        },
+        {
+            "name": "MY.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/MY.png"
+        },
+        {
+            "name": "My5.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/My5.png"
+        },
+        {
+            "name": "myTV_SUPER.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/myTV_SUPER.png"
+        },
+        {
+            "name": "N3RO.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/N3RO.png"
+        },
+        {
+            "name": "NBC.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/NBC.png"
+        },
+        {
+            "name": "Netease_Music.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Netease_Music.png"
+        },
+        {
+            "name": "Netease_Music_Unlock.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Netease_Music_Unlock.png"
+        },
+        {
+            "name": "Netflix.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Netflix.png"
+        },
+        {
+            "name": "Netflix_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Netflix_Letter.png"
+        },
+        {
+            "name": "Nexitally.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Nexitally.png"
+        },
+        {
+            "name": "niconico.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/niconico.png"
+        },
+        {
+            "name": "niconico_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/niconico_Letter.png"
+        },
+        {
+            "name": "Notion.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Notion.png"
+        },
+        {
+            "name": "NTT.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/NTT.png"
+        },
+        {
+            "name": "Null_Nation.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Null_Nation.png"
+        },
+        {
+            "name": "NyanCat.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/NyanCat.png"
+        },
+        {
+            "name": "OneDrive.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/OneDrive.png"
+        },
+        {
+            "name": "Oracle.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Oracle.png"
+        },
+        {
+            "name": "Ox.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Ox.png"
+        },
+        {
+            "name": "Pandora.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Pandora.png"
+        },
+        {
+            "name": "PayPal.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/PayPal.png"
+        },
+        {
+            "name": "PBS.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/PBS.png"
+        },
+        {
+            "name": "PCCW.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/PCCW.png"
+        },
+        {
+            "name": "Peacock.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Peacock.png"
+        },
+        {
+            "name": "Peacock_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Peacock_Letter.png"
+        },
+        {
+            "name": "Peacock_P.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Peacock_P.png"
+        },
+        {
+            "name": "PH.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/PH.png"
+        },
+        {
+            "name": "Philippines.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Philippines.png"
+        },
+        {
+            "name": "Pig.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Pig.png"
+        },
+        {
+            "name": "Pornhub.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Pornhub.png"
+        },
+        {
+            "name": "PostBox.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/PostBox.png"
+        },
+        {
+            "name": "PostBox_Alt.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/PostBox_Alt.png"
+        },
+        {
+            "name": "Prime_Video.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Prime_Video.png"
+        },
+        {
+            "name": "Proxy.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Proxy.png"
+        },
+        {
+            "name": "Puzzle.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Puzzle.png"
+        },
+        {
+            "name": "QQ.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/QQ.png"
+        },
+        {
+            "name": "Quantumult_X.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Quantumult_X.png"
+        },
+        {
+            "name": "Qure.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Qure.png"
+        },
+        {
+            "name": "Reject.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Reject.png"
+        },
+        {
+            "name": "rix.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/rix.png"
+        },
+        {
+            "name": "rixcloud.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/rixcloud.png"
+        },
+        {
+            "name": "Rocket.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Rocket.png"
+        },
+        {
+            "name": "Round_Robin.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Round_Robin.png"
+        },
+        {
+            "name": "Round_Robin_Alt.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Round_Robin_Alt.png"
+        },
+        {
+            "name": "RU.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/RU.png"
+        },
+        {
+            "name": "Russia.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Russia.png"
+        },
+        {
+            "name": "Server.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Server.png"
+        },
+        {
+            "name": "SG.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/SG.png"
+        },
+        {
+            "name": "Singapore.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Singapore.png"
+        },
+        {
+            "name": "Siri.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Siri.png"
+        },
+        {
+            "name": "SK.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/SK.png"
+        },
+        {
+            "name": "Sling_TV.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Sling_TV.png"
+        },
+        {
+            "name": "SoftBank.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/SoftBank.png"
+        },
+        {
+            "name": "SoftBank_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/SoftBank_Letter.png"
+        },
+        {
+            "name": "Spark.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Spark.png"
+        },
+        {
+            "name": "Speedtest.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Speedtest.png"
+        },
+        {
+            "name": "Spotify.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Spotify.png"
+        },
+        {
+            "name": "SS.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/SS.png"
+        },
+        {
+            "name": "SSID.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/SSID.png"
+        },
+        {
+            "name": "SSID_Alt.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/SSID_Alt.png"
+        },
+        {
+            "name": "SSR.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/SSR.png"
+        },
+        {
+            "name": "ssrcloud.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/ssrcloud.png"
+        },
+        {
+            "name": "SSR_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/SSR_Letter.png"
+        },
+        {
+            "name": "SS_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/SS_Letter.png"
+        },
+        {
+            "name": "Stack.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Stack.png"
+        },
+        {
+            "name": "Star.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Star.png"
+        },
+        {
+            "name": "Static.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Static.png"
+        },
+        {
+            "name": "Static_Alt.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Static_Alt.png"
+        },
+        {
+            "name": "Streaming.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Streaming.png"
+        },
+        {
+            "name": "StreamingCN.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/StreamingCN.png"
+        },
+        {
+            "name": "StreamingSE.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/StreamingSE.png"
+        },
+        {
+            "name": "Taiwan.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Taiwan.png"
+        },
+        {
+            "name": "Taobao.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Taobao.png"
+        },
+        {
+            "name": "Telegram.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Telegram.png"
+        },
+        {
+            "name": "Telegram_X.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Telegram_X.png"
+        },
+        {
+            "name": "Tencent_Cloud.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Tencent_Cloud.png"
+        },
+        {
+            "name": "TestFlight.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/TestFlight.png"
+        },
+        {
+            "name": "TH.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/TH.png"
+        },
+        {
+            "name": "Thailand.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Thailand.png"
+        },
+        {
+            "name": "TIDAL.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/TIDAL.png"
+        },
+        {
+            "name": "TikTok.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/TikTok.png"
+        },
+        {
+            "name": "TR.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/TR.png"
+        },
+        {
+            "name": "Trojan.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Trojan.png"
+        },
+        {
+            "name": "Trojan_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Trojan_Letter.png"
+        },
+        {
+            "name": "Turkey.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Turkey.png"
+        },
+        {
+            "name": "TVB.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/TVB.png"
+        },
+        {
+            "name": "TW.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/TW.png"
+        },
+        {
+            "name": "Twitch.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Twitch.png"
+        },
+        {
+            "name": "Twitter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Twitter.png"
+        },
+        {
+            "name": "UK.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/UK.png"
+        },
+        {
+            "name": "ULB.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/ULB.png"
+        },
+        {
+            "name": "ULB_Alt.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/ULB_Alt.png"
+        },
+        {
+            "name": "UN.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/UN.png"
+        },
+        {
+            "name": "United_Kingdom.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/United_Kingdom.png"
+        },
+        {
+            "name": "United_Nations.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/United_Nations.png"
+        },
+        {
+            "name": "United_States.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/United_States.png"
+        },
+        {
+            "name": "United_States_Map.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/United_States_Map.png"
+        },
+        {
+            "name": "Unlock.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Unlock.png"
+        },
+        {
+            "name": "US.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/US.png"
+        },
+        {
+            "name": "Vimeo.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Vimeo.png"
+        },
+        {
+            "name": "VIP.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/VIP.png"
+        },
+        {
+            "name": "VirMach.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/VirMach.png"
+        },
+        {
+            "name": "VirMach_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/VirMach_Letter.png"
+        },
+        {
+            "name": "ViuTV.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/ViuTV.png"
+        },
+        {
+            "name": "VMess.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/VMess.png"
+        },
+        {
+            "name": "VMess_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/VMess_Letter.png"
+        },
+        {
+            "name": "w8ves.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/w8ves.png"
+        },
+        {
+            "name": "w8ves_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/w8ves_Letter.png"
+        },
+        {
+            "name": "Want_Want.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Want_Want.png"
+        },
+        {
+            "name": "Want_Want_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Want_Want_Letter.png"
+        },
+        {
+            "name": "WeChat.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/WeChat.png"
+        },
+        {
+            "name": "WeTV.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/WeTV.png"
+        },
+        {
+            "name": "WeTV_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/WeTV_Letter.png"
+        },
+        {
+            "name": "WiFi.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/WiFi.png"
+        },
+        {
+            "name": "Windows.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Windows.png"
+        },
+        {
+            "name": "WTT.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/WTT.png"
+        },
+        {
+            "name": "x0.1.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x0.1.png"
+        },
+        {
+            "name": "x0.2.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x0.2.png"
+        },
+        {
+            "name": "x0.3.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x0.3.png"
+        },
+        {
+            "name": "x0.4.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x0.4.png"
+        },
+        {
+            "name": "x0.5.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x0.5.png"
+        },
+        {
+            "name": "x0.7.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x0.7.png"
+        },
+        {
+            "name": "x0.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x0.png"
+        },
+        {
+            "name": "x1.0.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x1.0.png"
+        },
+        {
+            "name": "x1.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x1.png"
+        },
+        {
+            "name": "x2.0.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x2.0.png"
+        },
+        {
+            "name": "x2.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x2.png"
+        },
+        {
+            "name": "x3.0.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x3.0.png"
+        },
+        {
+            "name": "x3.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x3.png"
+        },
+        {
+            "name": "x4.0.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x4.0.png"
+        },
+        {
+            "name": "x5.0.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/x5.0.png"
+        },
+        {
+            "name": "Yahoo.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Yahoo.png"
+        },
+        {
+            "name": "Yahoo_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/Yahoo_Letter.png"
+        },
+        {
+            "name": "YouTube.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/YouTube.png"
+        },
+        {
+            "name": "YouTube_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/YouTube_Letter.png"
+        },
+        {
+            "name": "YouTube_Music.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/YouTube_Music.png"
+        },
+        {
+            "name": "YoYu.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/YoYu.png"
+        },
+        {
+            "name": "YoYu_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/YoYu_Letter.png"
+        },
+        {
+            "name": "YTOO.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/YTOO.png"
+        },
+        {
+            "name": "YTOO_Letter.png",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/IconSet/Light/YTOO_Letter.png"
+        }
+    ]
+}

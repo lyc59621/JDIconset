@@ -1,0 +1,976 @@
+{
+    "name": "mini Iconset",
+    "description": "收集自Orz-3 mini icons，如有侵权请联系",
+    "time": "2024-07-18",
+    "icons":
+    [
+        {
+            "name": "Global",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Global.png"
+        },
+        {
+            "name": "China",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/China.png"
+        },
+        {
+            "name": "Streaming",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Streaming.png"
+        },
+        {
+            "name": "StreamingSE",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/StreamingSE.png"
+        },
+        {
+            "name": "StreamingCN",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/StreamingCN.png"
+        },
+        {
+            "name": "Static",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Static.png"
+        },
+        {
+            "name": "Urltest",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Urltest.png"
+        },
+        {
+            "name": "Available",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Available.png"
+        },
+        {
+            "name": "Roundrobin",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Roundrobin.png"
+        },
+        {
+            "name": "SSID",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/SSID.png"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Telegram.png"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Instagram.png"
+        },
+        {
+            "name": "Speedtest",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Speedtest.png"
+        },
+        {
+            "name": "Adblock",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Adblock.png"
+        },
+        {
+            "name": "Final",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Final.png"
+        },
+        {
+            "name": "Google",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Google.png"
+        },
+        {
+            "name": "Apple",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Apple.png"
+        },
+        {
+            "name": "Microsoft",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Microsoft.png"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Twitter.png"
+        },
+        {
+            "name": "Paypal",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Paypal.png"
+        },
+        {
+            "name": "GoogleDrive",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/GoogleDrive.png"
+        },
+        {
+            "name": "AppleTV",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/AppleTV.png"
+        },
+        {
+            "name": "Discovery+",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Discovery.png"
+        },
+        {
+            "name": "Clubhouse",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Clubhouse.png"
+        },
+        {
+            "name": "NeteaseMusic",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Netease.png"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/YouTube.png"
+        },
+        {
+            "name": "Netflix",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Netflix.png"
+        },
+        {
+            "name": "Spotify",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Spotify.png"
+        },
+        {
+            "name": "Emby",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Emby.png"
+        },
+        {
+            "name": "PLUS",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/PLUS.png"
+        },
+        {
+            "name": "TikTok",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/TikTok.png"
+        },
+        {
+            "name": "Bahamut",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Bahamut.png"
+        },
+        {
+            "name": "Pornhub",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Pornhub.png"
+        },
+        {
+            "name": "Bilibili",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Bili.png"
+        },
+        {
+            "name": "Disney+",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/DisneyPlus.png"
+        },
+        {
+            "name": "HBO",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/HBO.png"
+        },
+        {
+            "name": "Hulu",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Hulu.png"
+        },
+        {
+            "name": "PrimeVideo",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/PrimeVideo.png"
+        },
+        {
+            "name": "LineTV",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/LineTV.png"
+        },
+        {
+            "name": "Paramount",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Paramount.png"
+        },
+        {
+            "name": "HK",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/HK.png"
+        },
+        {
+            "name": "MO",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/MO.png"
+        },
+        {
+            "name": "TW",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/TW.png"
+        },
+        {
+            "name": "CN",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/CN.png"
+        },
+        {
+            "name": "GAME",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/GAME.png"
+        },
+        {
+            "name": "JP",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/JP.png"
+        },
+        {
+            "name": "KR",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/KR.png"
+        },
+        {
+            "name": "SG",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/SG.png"
+        },
+        {
+            "name": "VN",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/VN.png"
+        },
+        {
+            "name": "TH",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/TH.png"
+        },
+        {
+            "name": "RU",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/RU.png"
+        },
+        {
+            "name": "UK",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/UK.png"
+        },
+        {
+            "name": "FR",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/FR.png"
+        },
+        {
+            "name": "DE",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/DE.png"
+        },
+        {
+            "name": "TR",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/TR.png"
+        },
+        {
+            "name": "US",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/US.png"
+        },
+        {
+            "name": "CA",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/CA.png"
+        },
+        {
+            "name": "AU",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/AU.png"
+        },
+        {
+            "name": "XD",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/XD.png"
+        },
+        {
+            "name": "UN",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/UN.png"
+        },
+        {
+            "name": "Flower",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Flower.png"
+        },
+        {
+            "name": "Maying",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Maying.png"
+        },
+        {
+            "name": "Nexitally",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Nex.png"
+        },
+        {
+            "name": "Dler",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Dler.png"
+        },
+        {
+            "name": "Cylink",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Cylink.png"
+        },
+        {
+            "name": "SaySS",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/SaySS.png"
+        },
+        {
+            "name": "Boslife",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Boslife.png"
+        },
+        {
+            "name": "CCCat",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/CCCat.png"
+        },
+        {
+            "name": "AAEX",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/AAEX.png"
+        },
+        {
+            "name": "Hitun",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Hitun.png"
+        },
+        {
+            "name": "MDSS",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/MDSS.png"
+        },
+        {
+            "name": "STC",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/STC.png"
+        },
+        {
+            "name": "Blinkload",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Blink.png"
+        },
+        {
+            "name": "YTOO",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Ytoo.png"
+        },
+        {
+            "name": "SSP",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Ssp.png"
+        },
+        {
+            "name": "Renzhe",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Renzhe.png"
+        },
+        {
+            "name": "NSFW",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/NSFW.png"
+        },
+        {
+            "name": "Cord",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Cord.png"
+        },
+        {
+            "name": "Exflux",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Exflux.png"
+        },
+        {
+            "name": "ImmTel",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Imm.png"
+        },
+        {
+            "name": "Xingmeng",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Xingmeng.png"
+        },
+        {
+            "name": "Ark",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Ark.png"
+        },
+        {
+            "name": "Amy",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Amy.png"
+        },
+        {
+            "name": "GuGuEX",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Guguex.png"
+        },
+        {
+            "name": "Kache",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Kache.png"
+        },
+        {
+            "name": "Cm",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Cm.png"
+        },
+        {
+            "name": "Fastnode",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Fastnode.png"
+        },
+        {
+            "name": "Boom",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Boom.png"
+        },
+        {
+            "name": "Np",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Np.png"
+        },
+        {
+            "name": "Catnet",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Catnet.png"
+        },
+        {
+            "name": "Xair",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Xair.png"
+        },
+        {
+            "name": "Dukou",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Dukou.png"
+        },
+        {
+            "name": "CoCo",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Coco.png"
+        },
+        {
+            "name": "V2Tun",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/V2tun.png"
+        },
+        {
+            "name": "DLK",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/DLK.png"
+        },
+        {
+            "name": "Fastlink",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Fastlink.png"
+        },
+        {
+            "name": "Yunyi",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Yunyi.png"
+        },
+        {
+            "name": "CNIX",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/CNIX.png"
+        },
+        {
+            "name": "Zhs",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Zhs.png"
+        },
+        {
+            "name": "Bywave",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Bywave.png"
+        },
+        {
+            "name": "Ywhl",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Ywhl.png"
+        },
+        {
+            "name": "Kedou",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Kedou.png"
+        },
+        {
+            "name": "Fastfish",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Fastfish.png"
+        },
+        {
+            "name": "Dianliang",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Dianliang.png"
+        },
+        {
+            "name": "ASN",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/ASN.png"
+        },
+        {
+            "name": "WestData",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/WestData.png"
+        },
+        {
+            "name": "SSlinks",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/SSlinks.png"
+        },
+        {
+            "name": "Paoluz",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Paoluz.png"
+        },
+        {
+            "name": "Prpr",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Prpr.png"
+        },
+        {
+            "name": "Skicat",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Skicat.png"
+        },
+        {
+            "name": "Suda",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Suda.png"
+        },
+        {
+            "name": "Muchang",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Muchang.png"
+        },
+        {
+            "name": "Shandian",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Shandian.png"
+        },
+        {
+            "name": "MGNB",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/MGNB.png"
+        },
+        {
+            "name": "Wallless",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Wallless.png"
+        },
+        {
+            "name": "Element",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Element.png"
+        },
+        {
+            "name": "BitCloud",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Bitcloud.png"
+        },
+        {
+            "name": "Hxlm",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Hxlm.png"
+        },
+        {
+            "name": "Miaona",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Miao.png"
+        },
+        {
+            "name": "Duang",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Duang.png"
+        },
+        {
+            "name": "FNF",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/FNF.png"
+        },
+        {
+            "name": "Rookie",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Rookie.png"
+        },
+        {
+            "name": "OvO",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/OvO.png"
+        },
+        {
+            "name": "Socloud",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Socloud.png"
+        },
+        {
+            "name": "Suncloud",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Sun.png"
+        },
+        {
+            "name": "GLaDOS",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/GLaDOS.png"
+        },
+        {
+            "name": "Situ",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Situ.png"
+        },
+        {
+            "name": "Kuai",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Kuai.png"
+        },
+        {
+            "name": "SWCloud",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/SWCloud.png"
+        },
+        {
+            "name": "MIMEMI",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Mimemi.png"
+        },
+        {
+            "name": "XTunnel",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/XTunnel.png"
+        },
+        {
+            "name": "Touhou",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Touhou.png"
+        },
+        {
+            "name": "Pacifiuue",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Pacifique.png"
+        },
+        {
+            "name": "GaCloud",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/GaCloud.png"
+        },
+        {
+            "name": "Enet",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Enet.png"
+        },
+        {
+            "name": "FRANXX",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/FRANXX.png"
+        },
+        {
+            "name": "Nucleus",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Nucleus.png"
+        },
+        {
+            "name": "Flyint",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Flyint.png"
+        },
+        {
+            "name": "SCTC",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/SCTC.png"
+        },
+        {
+            "name": "AEX",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/AEX.png"
+        },
+        {
+            "name": "LiYing",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/LiYing.png"
+        },
+        {
+            "name": "Godetia",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Godetia.png"
+        },
+        {
+            "name": "Thunder",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Thunder.png"
+        },
+        {
+            "name": "Kafka",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Kafka.png"
+        },
+        {
+            "name": "Unicorn",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Unicorn.png"
+        },
+        {
+            "name": "Mickey",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Color/Mickey.png"
+        },
+        {
+            "name": "Flower",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Flower.png"
+        },
+        {
+            "name": "Maying",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Maying.png"
+        },
+        {
+            "name": "Nexitally",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Nex.png"
+        },
+        {
+            "name": "Dler",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Dler.png"
+        },
+        {
+            "name": "Cylink",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Cylink.png"
+        },
+        {
+            "name": "SaySS",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/SaySS.png"
+        },
+        {
+            "name": "Boslife",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Boslife.png"
+        },
+        {
+            "name": "CCCat",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/CCCat.png"
+        },
+        {
+            "name": "AAEX",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/AAEX.png"
+        },
+        {
+            "name": "Hitun",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Hitun.png"
+        },
+        {
+            "name": "MDSS",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/MDSS.png"
+        },
+        {
+            "name": "STC",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/STC.png"
+        },
+        {
+            "name": "Blinkload",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Blink.png"
+        },
+        {
+            "name": "YTOO",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Ytoo.png"
+        },
+        {
+            "name": "SSP",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Ssp.png"
+        },
+        {
+            "name": "Renzhe",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Renzhe.png"
+        },
+        {
+            "name": "NSFW",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/NSFW.png"
+        },
+        {
+            "name": "Cord",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Cord.png"
+        },
+        {
+            "name": "Exflux",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Exflux.png"
+        },
+        {
+            "name": "ImmTel",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Imm.png"
+        },
+        {
+            "name": "Xingmeng",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Xingmeng.png"
+        },
+        {
+            "name": "Ark",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Ark.png"
+        },
+        {
+            "name": "Amy",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Amy.png"
+        },
+        {
+            "name": "GuGuEX",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Guguex.png"
+        },
+        {
+            "name": "Kache",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Kache.png"
+        },
+        {
+            "name": "Cm",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Cm.png"
+        },
+        {
+            "name": "Fastnode",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Fastnode.png"
+        },
+        {
+            "name": "Boom",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Boom.png"
+        },
+        {
+            "name": "Np",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Np.png"
+        },
+        {
+            "name": "Catnet",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Catnet.png"
+        },
+        {
+            "name": "Xair",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Xair.png"
+        },
+        {
+            "name": "Dukou",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Dukou.png"
+        },
+        {
+            "name": "CoCo",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Coco.png"
+        },
+        {
+            "name": "V2Tun",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/V2tun.png"
+        },
+        {
+            "name": "DLK",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/DLK.png"
+        },
+        {
+            "name": "Fastlink",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Fastlink.png"
+        },
+        {
+            "name": "Yunyi",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Yunyi.png"
+        },
+        {
+            "name": "CNIX",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/CNIX.png"
+        },
+        {
+            "name": "Zhs",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Zhs.png"
+        },
+        {
+            "name": "Bywave",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Bywave.png"
+        },
+        {
+            "name": "Ywhl",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Ywhl.png"
+        },
+        {
+            "name": "Kedou",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Kedou.png"
+        },
+        {
+            "name": "Fastfish",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Fastfish.png"
+        },
+        {
+            "name": "Dianliang",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Dianliang.png"
+        },
+        {
+            "name": "ASN",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/ASN.png"
+        },
+        {
+            "name": "WestData",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/WestData.png"
+        },
+        {
+            "name": "SSlinks",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/SSlinks.png"
+        },
+        {
+            "name": "Paoluz",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Paoluz.png"
+        },
+        {
+            "name": "Prpr",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Prpr.png"
+        },
+        {
+            "name": "Skicat",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Skicat.png"
+        },
+        {
+            "name": "Suda",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Suda.png"
+        },
+        {
+            "name": "Muchang",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Muchang.png"
+        },
+        {
+            "name": "Shandian",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Shandian.png"
+        },
+        {
+            "name": "MGNB",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/MGNB.png"
+        },
+        {
+            "name": "Wallless",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Wallless.png"
+        },
+        {
+            "name": "Element",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Element.png"
+        },
+        {
+            "name": "BitCloud",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Bitcloud.png"
+        },
+        {
+            "name": "Hxlm",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Hxlm.png"
+        },
+        {
+            "name": "Miaona",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Miao.png"
+        },
+        {
+            "name": "Duang",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Duang.png"
+        },
+        {
+            "name": "FNF",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/FNF.png"
+        },
+        {
+            "name": "Rookie",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Rookie.png"
+        },
+        {
+            "name": "OvO",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/OvO.png"
+        },
+        {
+            "name": "Socloud",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Socloud.png"
+        },
+        {
+            "name": "Suncloud",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Sun.png"
+        },
+        {
+            "name": "GLaDOS",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/GLaDOS.png"
+        },
+        {
+            "name": "Situ",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Situ.png"
+        },
+        {
+            "name": "Kuai",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Kuai.png"
+        },
+        {
+            "name": "SWCloud",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/SWCloud.png"
+        },
+        {
+            "name": "MIMEMI",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Mimemi.png"
+        },
+        {
+            "name": "XTunnel",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/XTunnel.png"
+        },
+        {
+            "name": "Touhou",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Touhou.png"
+        },
+        {
+            "name": "Pacifiuue",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Pacifique.png"
+        },
+        {
+            "name": "GaCloud",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/GaCloud.png"
+        },
+        {
+            "name": "Enet",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Enet.png"
+        },
+        {
+            "name": "FRANXX",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/FRANXX.png"
+        },
+        {
+            "name": "Nucleus",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Nucleus.png"
+        },
+        {
+            "name": "Flyint",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Flyint.png"
+        },
+        {
+            "name": "SCTC",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/SCTC.png"
+        },
+        {
+            "name": "AEX",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/AEX.png"
+        },
+        {
+            "name": "LiYing",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/LiYing.png"
+        },
+        {
+            "name": "Godetia",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Godetia.png"
+        },
+        {
+            "name": "Thunder",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Thunder.png"
+        },
+        {
+            "name": "Kafka",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Kafka.png"
+        },
+        {
+            "name": "Unicorn",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Unicorn.png"
+        },
+        {
+            "name": "Mickey",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Mickey.png"
+        },
+        {
+            "name": "Personal",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Personal.png"
+        },
+        {
+            "name": "Team",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Team.png"
+        },
+        {
+            "name": "Enterprise",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Enterprise.png"
+        },
+        {
+            "name": "Piao",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Piao.png"
+        },
+        {
+            "name": "RIP",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/RIP.png"
+        },
+        {
+            "name": "SS",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/SS.png"
+        },
+        {
+            "name": "SSR",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/SSR.png"
+        },
+        {
+            "name": "V2aray",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/V2ray.png"
+        },
+        {
+            "name": "Trojan",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Trojan.png"
+        },
+        {
+            "name": "Vpn",
+            "url": "https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Alpha/Vpn.png"
+        }
+    ]
+}

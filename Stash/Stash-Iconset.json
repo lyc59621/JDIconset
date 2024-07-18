@@ -1,0 +1,479 @@
+{
+    "name":"Stash Iconset",
+    "description":"收集自Stash/IconSet Iconset，如有侵权请联系",
+    "time": "2024-07-18",
+    "icons":[
+        {
+            "name":"StashFlight",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/stashflight.png"
+        },
+        {
+            "name":"$tash",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/%24tash.png"
+        },
+        {
+            "name":"Loon",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/loon.png"
+        },
+        {
+            "name":"Friestash",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/friestash.png"
+        },
+        {
+            "name":"Select",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/select.png"
+        },
+        {
+            "name":"Fallback",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/fallback.png"
+        },
+        {
+            "name":"Load Balance",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/loadbalance.png"
+        },
+        {
+            "name":"URL Test",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/urltest.png"
+        },
+        {
+            "name":"Relay",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/relay.png"
+        },
+        {
+            "name":"Statue of Liberty",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/statueofliberty.png"
+        },
+        {
+            "name":"Obelisco de Buenos Aires",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/obeliscodebuenosaires.png"
+        },
+        {
+            "name":"White House",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/thewhitehouse.png"
+        },
+        {
+            "name":"Sydney Opera House",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/sydneyoperahouse.png"
+        },
+        {
+            "name":"Taipei 101",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/taipei101.png"
+        },
+        {
+            "name":"Petronas Towers",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/petronastowers.png"
+        },
+        {
+            "name":"Federal Assembly",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/thefederalassembly.png"
+        },
+        {
+            "name":"Blue Mosque",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/thebluemosque.png"
+        },
+        {
+            "name":"Ruins of Saint Pauls",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/ruinsofsaintpauls.png"
+        },
+        {
+            "name":"Chiang Kai-Shek Memorial House",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/chiangkaishekmemorialhouse.png"
+        },
+        {
+            "name":"Merlion",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/merlion.png"
+        },
+        {
+            "name":"Saint Basil's Cathedral",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/saintbasilscathedral.png"
+        },
+        {
+            "name":"Gyeongbokgung Palace",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/gyeongbokgungpalace.png"
+        },
+        {
+            "name":"Eiffel Tower",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/eiffeltower.png"
+        },
+        {
+            "name":"Skylines",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/skylines.png"
+        },
+        {
+            "name":"National Monument",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/nationalmonument.png"
+        },
+        {
+            "name":"Leaning Tower of Pisa",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/leaningtowerofpisa.png"
+        },
+        {
+            "name":"Torri",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/torii.png"
+        },
+        {
+            "name":"Taj Mahal",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/tajmahal.png"
+        },
+        {
+            "name":"Colosseum",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/colosseum.png"
+        },
+        {
+            "name":"Brandenburg Gate",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/brandenburggate.png"
+        },
+        {
+            "name":"Great Wall",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/thegreatwall.png"
+        },
+        {
+            "name":"CN Tower",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/cntower.png"
+        },
+        {
+            "name":"Christ the Redeemer",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/christtheredeemer.png"
+        },
+        {
+            "name":"Big Ben",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/bigben.png"
+        },
+        {
+            "name":"London Eye",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/londoneye.png"
+        },
+        {
+            "name":"Stone Henge",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/stonehenge.png"
+        },
+        {
+            "name":"Apple",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/apple.png"
+        },
+        {
+            "name":"Apple Spring Loaded",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applespringloaded.png"
+        },
+        {
+            "name":"Apple WWDC23",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applewwdc23.png"
+        },
+        {
+            "name":"Apple Books",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applebooks.png"
+        },
+        {
+            "name":"Apple Music",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applemusic.png"
+        },
+        {
+            "name":"Apple News",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applenews.png"
+        },
+        {
+            "name":"Apple Arcade",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applearcade.png"
+        },
+        {
+            "name":"Apple Game Center",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applegamecenter.png"
+        },
+        {
+            "name":"Apple iCloud",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/appleicloud.png"
+        },
+        {
+            "name":"Apple Mail",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applemail.png"
+        },
+        {
+            "name":"Apple Messages",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applemessages.png"
+        },
+        {
+            "name":"Apple FaceTime",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applefacetime.png"
+        },
+        {
+            "name":"Apple Safari",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applesafari.png"
+        },
+        {
+            "name":"Apple App Store",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/appleappstore.png"
+        },
+        {
+            "name":"Apple iTunes Store",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/appleitunesstore.png"
+        },
+        {
+            "name":"Apple Home",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applehome.png"
+        },
+        {
+            "name":"Apple Wallet",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/applewallet.png"
+        },
+        {
+            "name":"Adguard",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/adguard.png"
+        },
+        {
+            "name":"Anthropic",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/anthropic.png"
+        },
+        {
+            "name":"Baidu",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/baidu.png"
+        },
+        {
+            "name":"Bilibili",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/bilibili.png"
+        },
+        {
+            "name":"Bilibili TV",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/bilibilitv.png"
+        },
+        {
+            "name":"Bing",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/bing.png"
+        },
+        {
+            "name":"Discord",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/discord.png"
+        },
+        {
+            "name":"Disney+",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/disneyplus.png"
+        },
+        {
+            "name":"Google",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/google.png"
+        },
+        {
+            "name":"Hulu",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/hulu.png"
+        },
+        {
+            "name":"LinkedIn",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/linkedin.png"
+        },
+        {
+            "name":"Meta",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/meta.png"
+        },
+        {
+            "name":"Microsoft",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/microsoft.png"
+        },
+        {
+            "name":"Netflix",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/netflix.png"
+        },
+        {
+            "name":"Open AI",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/openai.png"
+        },
+        {
+            "name":"Play Station",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/playstation.png"
+        },
+        {
+            "name":"Prime Video",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/primevideo.png"
+        },
+        {
+            "name":"Spotify",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/spotify.png"
+        },
+        {
+            "name":"Switch",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/switch.png"
+        },
+        {
+            "name":"Telegram",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/telegram.png"
+        },
+        {
+            "name":"Tencent",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/tencent.png"
+        },
+        {
+            "name":"Threads",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/threads.png"
+        },
+        {
+            "name":"Tinder",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/tinder.png"
+        },
+        {
+            "name":"TikTok",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/tiktok.png"
+        },
+        {
+            "name":"Twitch",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/twitch.png"
+        },
+        {
+            "name":"Twitter",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/twitter.png"
+        },
+        {
+            "name":"Vercel;",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/vercel.png"
+        },
+        {
+            "name":"WeChat",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/wechat.png"
+        },
+        {
+            "name":"Weibo",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/weibo.png"
+        },
+        {
+            "name":"X",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/x.png"
+        },
+        {
+            "name":"XBOX",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/xbox.png"
+        },
+        {
+            "name":"YouTube",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/youtube.png"
+        },
+        {
+            "name":"Zhihu",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/zhihu.png"
+        },
+        {
+            "name":"AWS",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/aws.png"
+        },
+        {
+            "name":"Azure",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/azure.png"
+        },
+        {
+            "name":"Cisco",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/cisco.png"
+        },
+        {
+            "name":"Cloudflare",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/cloudflare.png"
+        },
+        {
+            "name":"GCP",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/gcp.png"
+        },
+        {
+            "name":"Oracle",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/oracle.png"
+        },
+        {
+            "name":"Tecent Cloud",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/tencentcloud.png"
+        },
+        {
+            "name":"Atomlantis Cloud",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/atomlantiscloud.png"
+        },
+        {
+            "name":"Blinkload",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/blinkload.png"
+        },
+        {
+            "name":"Blinkload B",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/blinkloadB.png"
+        },
+        {
+            "name":"DegYax 1",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/degyax1.png"
+        },
+        {
+            "name":"DegYax 2",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/degyax2.png"
+        },
+        {
+            "name":"DegYax 3",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/degyax3.png"
+        },
+        {
+            "name":"Dler Cloud",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/dlercloud.png"
+        },
+        {
+            "name":"FishChips",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/fishchips.png"
+        },
+        {
+            "name":"FishChips Official",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/fishchips0.png"
+        },
+        {
+            "name":"GLaDos",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/glados.png"
+        },
+        {
+            "name":"InfiniPort",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/infiniport.png"
+        },
+        {
+            "name":"iQZone",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/iqzone.png"
+        },
+        {
+            "name":"Magic School",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/magicschool.png"
+        },
+        {
+            "name":"Texon",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/texon.png"
+        },
+        {
+            "name":"Texon Head",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/texonhead.png"
+        },
+        {
+            "name":"Texon's Lab",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/texonslab.png"
+        },
+        {
+            "name":"V2Tun",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/v2tun.png"
+        },
+        {
+            "name":"WARP",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/warp.png"
+        },
+        {
+            "name":"WARP Comet",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/warpcomet.png"
+        },
+        {
+            "name":"WireGuard",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/wireguard.png"
+        },
+        {
+            "name":"Riot Games",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/riotgames.png"
+        },
+        {
+            "name":"BetaHub",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/betahub.png"
+        },
+        {
+            "name":"iRingo",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/iringo.png"
+        },
+        {
+            "name":"Sub-Store",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/substore.png"
+        },
+        {
+            "name":"Hogwarts",
+            "url":"https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/IconSet/hogwarts.png"
+        }
+    ]
+}
