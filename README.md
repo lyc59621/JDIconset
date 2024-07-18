@@ -5,14 +5,11 @@
 ##
 Hand-Painted  https://raw.githubusercontent.com/lyc59621/JDIconset/main/Hand-Painted/Hand-Painted-Iconset.json
 
-
 Fmz200 https://raw.githubusercontent.com/lyc59621/JDIconset/main/Fmz200/Fmz200-Iconset.json
-
 
 Stash https://raw.githubusercontent.com/lyc59621/JDIconset/main/Stash/Stash-Iconset.json
 
 Mini https://raw.githubusercontent.com/lyc59621/JDIconset/main/Mini/Mini-Iconset.json
-
 
 Qure https://raw.githubusercontent.com/lyc59621/JDIconset/main/Qure/QureColor-Iconset.json
 
